@@ -1,0 +1,1 @@
+This project focuses on building a Credit Scoring Model to assess the creditworthiness of potential borrowers. Credit scoring plays a vital role in financial decision-making by predicting the likelihood of loan repayment or default based on borrower data.
